@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Ester-Quinonez
 
 ## 🤓 Course overview and learning outcomes 
 
